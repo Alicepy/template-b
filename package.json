@@ -1,5 +1,5 @@
 {
-  "name": "tpl-b",
+  "name": "{{name}}",
   "version": "1.0.0",
   "description": "{{description}}",
   "main": "index.js",
@@ -39,6 +39,6 @@
   },
   "dependencies": {
     "common": "^1.0.0",
-    "lib": "^2.0.8"
+    "lib": "^2.0.10"
   }
 }
