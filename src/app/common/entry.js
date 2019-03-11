@@ -3,7 +3,7 @@
  * @Author: zhangxuelian 
  * @Date: 2017-09-14 09:32:34 
  * @Last Modified by: chenpeiyu
- * @Last Modified time: 2019-03-05 11:34:56
+ * @Last Modified time: 2019-03-11 14:21:13
  **/
 require(['angular'], function () {
     require([
@@ -16,8 +16,6 @@ require(['angular'], function () {
         'app/common/constants',
         'app/common/models',
 
-        // 'bower_components/common/security/index',
-        
         'bower_components/common/exception/index',
 
         'bower_components/common/services/date_util',
@@ -47,7 +45,6 @@ require(['angular'], function () {
                 'ui.router',
                 'models',
                 'ui.bootstrap',
-                // 'security', 
                 'exception',
                 'angularShiro',
                 'constants',
